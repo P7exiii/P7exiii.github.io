@@ -1,0 +1,54 @@
+.pexicenter{
+    text-align: center;
+    color: #586f7c;
+    
+}
+.pexiword{
+    background-color: black;
+    text-align:center;
+    border: 2px;
+    border-radius: 30px;
+    padding: 20px 30px;
+    color: aliceblue;
+    margin:60px auto;
+    width: 80%;
+    height: 150px;
+    overflow: scroll;
+}
+.centercenter{
+    text-align: center;
+}
+a.pexilink{
+    padding: 0 20px;
+    border-radius: 30px;
+    background-color: blanchedalmond;
+}
+a.pexilink:hover{
+    background-color:chocolate;
+    color: aliceblue;
+    padding: 0 20px;  
+    border-radius: 30px;
+}
+.pexibig{
+    font-size: 20px;
+    font-weight: 600;
+}
+.pexigo{
+    font-size: 35px;
+    text-align: center;
+}
+.pexilink{
+    text-align: center;
+}
+#about{
+    background-color: #f4f4f9;
+    background-image: url(../assets/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#callme{
+    background-color:#f4f4f9;
+    
+}
